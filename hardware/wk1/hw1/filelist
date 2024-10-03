@@ -1,2 +1,2 @@
-./verilog/sfp.v
-./verilog/sfp_tb.v
+./verilog/mac.v
+./verilog/mac_tb.v
