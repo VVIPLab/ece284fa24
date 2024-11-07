@@ -1,0 +1,4 @@
+./verilog/mac.v
+./verilog/mac_row.v
+./verilog/mac_array.v
+./verilog/mac_tile.v
