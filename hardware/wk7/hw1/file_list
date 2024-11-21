@@ -1,0 +1,2 @@
+./verilog/sram_tb.v
+./verilog/sram_32b_w2048.v
